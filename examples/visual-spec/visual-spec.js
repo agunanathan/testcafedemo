@@ -1,5 +1,5 @@
 import config from '../config';
-import { takeSnapshot } from '../../../../utilities/blink-diff/take-snapshot';
+import { takeSnapshot } from 'testcafe-blink-diff';
 
 const dataSet = require('../data/test-pages.data.json');
 fixture(`Visual Tests`);
