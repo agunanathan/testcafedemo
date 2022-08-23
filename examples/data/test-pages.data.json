@@ -1,0 +1,18 @@
+[
+  {
+    "skip": "no",
+    "name": "services",
+    "category": "services",
+    "url": "/services.html",
+    "width": 1024,
+    "height": 2000
+  },
+  {
+    "skip": "no",
+    "name": "non auto applications",
+    "category": "applications",
+    "url": "/nonautoapps.html",
+    "width": 1024,
+    "height": 2000
+  }
+]
