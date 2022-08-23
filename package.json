@@ -1,0 +1,23 @@
+{
+  "name": "testcafedemo",
+  "version": "1.0.0",
+  "description": "testcafedemo",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agunanathan/testcafedemo.git"
+  },
+  "author": "Asokan Gunanathan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agunanathan/testcafedemo/issues"
+  },
+  "homepage": "https://github.com/agunanathan/testcafedemo#readme",
+  "devDependencies": {
+    "testcafe": "^1.20.1",
+    "testcafe-blink-diff": "^0.4.11"
+  }
+}
