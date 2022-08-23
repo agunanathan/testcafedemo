@@ -13,12 +13,10 @@ dataSet.forEach((data) => {
         url: currentURL,
         thresholds: {
           accessibility: 80,
-          /* The following threshold settings can be set and turned on if and when needed for the project
-          performance: 50,
-          'best-practices': 50,
-          seo: 50,
-          pwa: 50,
-          */
+          performance: 10,
+          'best-practices': 10,
+          seo: 10,
+          pwa: 10,
         },
         cdpPort: 9222,
         reports: {
