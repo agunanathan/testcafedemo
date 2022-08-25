@@ -24,7 +24,7 @@ dataSet.forEach((data) => {
             html: true,
           },
           name: `lighthouse-output-${data.name}`,
-          directory: `/Users/asokan/Projects/testcafedemo/examples/lighthouse-spec/lighthouse-output`,
+          directory: `examples/lighthouse-spec/lighthouse-output`,
         },
       });
     });
