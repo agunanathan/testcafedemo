@@ -5,7 +5,7 @@
     "category": "home",
     "url": "/",
     "width": 1024,
-    "height": 5000
+    "height": 7000
   },
   {
     "skip": "no",
@@ -13,7 +13,7 @@
     "category": "services",
     "url": "/services/design-systems",
     "width": 1024,
-    "height": 5000
+    "height": 7000
   },
   {
     "skip": "no",
@@ -21,7 +21,7 @@
     "category": "services",
     "url": "/services/front-end-development",
     "width": 1024,
-    "height": 5000
+    "height": 7000
   },
   {
     "skip": "no",
@@ -29,7 +29,7 @@
     "category": "services",
     "url": "/services/headless-cms",
     "width": 1024,
-    "height": 5000
+    "height": 7000
   }
   ,
   {
@@ -38,7 +38,7 @@
     "category": "services",
     "url": "/services/agile-enablement",
     "width": 1024,
-    "height": 5000
+    "height": 7000
   }
   ,
   {
@@ -47,6 +47,6 @@
     "category": "contact-us",
     "url": "/contact-us",
     "width": 1024,
-    "height": 5000
+    "height": 7000
   }
 ]

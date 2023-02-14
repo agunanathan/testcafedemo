@@ -1,3 +1,4 @@
 node_modules/
 generated/
 examples/lighthouse-spec/lighthouse-output/
+examples/visual-spec/screenshots/
