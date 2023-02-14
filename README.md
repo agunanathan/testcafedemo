@@ -6,7 +6,7 @@ Repo Installation Steps:
   2. Run "npm install"
 
 ## Running accessiblity test that uses axe-core and axe-testcafe:
-  npx testcafe run examples/axe-spec/axe.spec.js
+  npx testcafe chrome examples/axe-spec/axe.spec.js
 
 ## Running lighthouse test which uses testcafe-lighthouse:
   npx testcafe chrome:headless:cdpPort=9222 examples/lighthouse-spec/lighthouse.spec.js

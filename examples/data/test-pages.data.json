@@ -1,18 +1,52 @@
 [
   {
     "skip": "no",
-    "name": "services",
-    "category": "services",
-    "url": "/services.html",
+    "name": "home",
+    "category": "home",
+    "url": "/",
     "width": 1024,
-    "height": 2000
+    "height": 5000
   },
   {
     "skip": "no",
-    "name": "non auto applications",
-    "category": "applications",
-    "url": "/nonautoapps.html",
+    "name": "design-systems",
+    "category": "services",
+    "url": "/services/design-systems",
     "width": 1024,
-    "height": 2000
+    "height": 5000
+  },
+  {
+    "skip": "no",
+    "name": "front-end-development",
+    "category": "services",
+    "url": "/services/front-end-development",
+    "width": 1024,
+    "height": 5000
+  },
+  {
+    "skip": "no",
+    "name": "headless-cms",
+    "category": "services",
+    "url": "/services/headless-cms",
+    "width": 1024,
+    "height": 5000
+  }
+  ,
+  {
+    "skip": "no",
+    "name": "agile-enablement",
+    "category": "services",
+    "url": "/services/agile-enablement",
+    "width": 1024,
+    "height": 5000
+  }
+  ,
+  {
+    "skip": "no",
+    "name": "contact-us",
+    "category": "contact-us",
+    "url": "/contact-us",
+    "width": 1024,
+    "height": 5000
   }
 ]

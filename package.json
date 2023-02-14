@@ -17,9 +17,9 @@
   },
   "homepage": "https://github.com/agunanathan/testcafedemo#readme",
   "devDependencies": {
-    "axe-core": "^4.4.3",
+    "axe-core": "^3.0.0",
     "axe-testcafe": "^3.0.0",
-    "testcafe": "^1.20.1",
+    "testcafe": "1.14.1",
     "testcafe-blink-diff": "^0.4.11",
     "testcafe-lighthouse": "^2.0.0"
   }
